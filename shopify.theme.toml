@@ -1,0 +1,2 @@
+[environments.development]
+store = "https://checkout-extension-demo-one.myshopify.com/"
